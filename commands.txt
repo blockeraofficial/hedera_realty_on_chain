@@ -1,0 +1,3 @@
+npx hardhat run scripts/... --network testnet
+
+npx hardhat compile
